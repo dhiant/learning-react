@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Learning-react
+Learning React From ZTM academy.
+Andrei is the instructor and the founder of ZTM academy.
+   He is a brilliant teacher who starts with the basics and makes things seem simple. I have seen his videos on https://www.freetutorialsus.com/ and found it be better than others.
+   His ZerotoMastery course is legit and worth it.I have started my journey as web developer following his tutorials.
+   
+   Here is the link : https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ ( Take this course if you want certificate once completing the course)
+   
+   In case, you donot need certificate rather willing to take free course : https://www.freetutorialsus.com/the-complete-web-developer-zero-to-mastery-3-udemy-course-free-download-2/
+
