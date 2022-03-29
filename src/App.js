@@ -13,7 +13,7 @@ class App extends React.Component {
   }
   onSearchChange = (event) => {
     this.setState({
-      searchfield: event.target.value,
+      searchfield: event.target.value
     });
   };
   render() {
@@ -23,8 +23,8 @@ class App extends React.Component {
         .includes(this.state.searchfield.toLowerCase());
     });
     return (
-      <div className="text-center">
-        <h2 className="font-bold">Robots</h2>
+      <div className="text-center ">
+        <h2 className="font-bold text-4xl text-emerald-200 robotstitle">COOL ROBOTS</h2>
         <SearchBox searchChange={this.onSearchChange} />
         <CardList robots={filterRobot} />
       </div>
